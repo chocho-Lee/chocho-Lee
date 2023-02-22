@@ -6,7 +6,7 @@
 
 🌱 Database management and data cleaning
 
-📚
+✨
 Everything I've ever tried.
 ✨
 
